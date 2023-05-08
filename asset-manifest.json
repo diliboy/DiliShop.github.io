@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dilishop/static/css/main.7cb4b12b.css",
-    "main.js": "/dilishop/static/js/main.c9d20bea.js",
+    "main.js": "/dilishop/static/js/main.bc5237cc.js",
     "static/media/single-sofa-01.jpg": "/dilishop/static/media/single-sofa-01.db24b9feed7582c4e98d.jpg",
     "static/media/arm-chair-03.jpg": "/dilishop/static/media/arm-chair-03.3249f382638c86196acd.jpg",
     "static/media/single-sofa-03.jpg": "/dilishop/static/media/single-sofa-03.0d976c067034347df78d.jpg",
@@ -34,10 +34,10 @@
     "static/media/wireless-01.png": "/dilishop/static/media/wireless-01.1a76d777727c50ca0294.png",
     "index.html": "/dilishop/index.html",
     "main.7cb4b12b.css.map": "/dilishop/static/css/main.7cb4b12b.css.map",
-    "main.c9d20bea.js.map": "/dilishop/static/js/main.c9d20bea.js.map"
+    "main.bc5237cc.js.map": "/dilishop/static/js/main.bc5237cc.js.map"
   },
   "entrypoints": [
     "static/css/main.7cb4b12b.css",
-    "static/js/main.c9d20bea.js"
+    "static/js/main.bc5237cc.js"
   ]
 }
